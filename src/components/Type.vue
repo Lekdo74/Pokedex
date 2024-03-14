@@ -12,6 +12,6 @@ defineProps({
     .imageType{
         image-rendering: crisp-edges;
         transform: scale(2);
-        margin: 30px;
+        margin: 20px 20px 0px 20px;
     }
 </style>

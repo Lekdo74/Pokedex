@@ -113,8 +113,8 @@ table{
   width: auto;
   position: absolute;
   left: 50%;
-  top: 25%;
-  transform: translate(-50%, -50%);
+  top: 0%;
+  transform: translate(-50%, 0%);
 }
 
 .heightWeightRow{
